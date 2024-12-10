@@ -1,5 +1,5 @@
 # pagina de producto de e-commerce
-se expone el producto y se provee el medio de compra
+se expone el producto y se provee de un carrito de compras para agregar el producto
 
 ![preview](/public/images/proyect1.jpg)
 
