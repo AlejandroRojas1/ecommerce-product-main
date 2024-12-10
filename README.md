@@ -1,8 +1,15 @@
-# React + Vite
+# pagina de producto de e-commerce
+se expone el producto y se provee el medio de compra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![preview](/public/images/proyect1.jpg)
 
-Currently, two official plugins are available:
+## si te interesa utilizar el código
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. clonar el repositorio 
+>`https://github.com/AlejandroRojas1/ecommerce-product-main.git`
+2. instalar las dependencias 
+>`npm install`
+3. levanta tu servidor de pruebas 
+> `npm run dev`
+4. accede a tu servidor de desarrollo desde el navegador 
+> `localhost:port` 
